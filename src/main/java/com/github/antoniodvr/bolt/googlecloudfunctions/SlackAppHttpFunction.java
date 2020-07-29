@@ -1,4 +1,4 @@
-package com.github.antoniodvr.bolt.googlecloudfunction;
+package com.github.antoniodvr.bolt.googlecloudfunctions;
 
 import com.google.cloud.functions.HttpFunction;
 import com.google.cloud.functions.HttpRequest;
